@@ -1,0 +1,6 @@
+lang: ru
+description: {{ site.github.project_tagline }}
+description.ru: {{ site.github.project_tagline }}
+sass:
+  sass_dir: _sass
+  style: expanded
