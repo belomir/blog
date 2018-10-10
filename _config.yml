@@ -1,4 +1,6 @@
 lang: ru
+title: {{ site.github.project_title }}
+title.ru: {{ site.github.project_title }}
 description: {{ site.github.project_tagline }}
 description.ru: {{ site.github.project_tagline }}
 sass:
